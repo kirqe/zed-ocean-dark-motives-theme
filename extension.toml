@@ -1,0 +1,7 @@
+id = "ocean-dark-motifs"
+name = "Ocean Dark Motifs Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["kirqe <kirqe@yahoo.com>"]
+description = "Ocean Dark Motifs theme for Zed"
+repository = "https://github.com/kirqe/zed-ocean-dark-motifs-theme"
